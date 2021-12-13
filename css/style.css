@@ -1,0 +1,27 @@
+#navimg{
+    width: 392px;
+    height: 40px;
+}
+#nick{
+    width: 407px;
+    height: 400px;
+}  
+.nav-img{
+    width: 407px;
+    height: 400px;
+}
+.nick{
+    color: #FA804C;
+}
+.bg-color{
+    background-color: #FFF9F4;
+
+}
+.card-img-top{
+    width: 280px;
+    height: 280px;
+}
+#iconimg{
+    width: 78px;
+    height: 82px;
+}
